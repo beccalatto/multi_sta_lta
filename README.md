@@ -1,6 +1,6 @@
-# Event detection for cryoseismology
-## Additional materials
+# Event detection for cryoseismology (Additional materials)
 Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
+
 ? zenodo link
 
 Here, users can find the data and code used for generating the event catalogues in Event detection for cryoseismology.

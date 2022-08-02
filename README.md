@@ -1,19 +1,20 @@
 # Multi-STA/LTA (Additional materials)
 Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
+
 Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission August 2022.
-
-Here, users can find the data and code used for generating the event catalogues in Event detection for cryoseismology.
-
-Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
-# eventdetectionforcryoseismology_Ch3/
-
-Repository architecture, including folder and file names with descriptions, is listed below.
 
 MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in ObsPy
 
 entrypoints.txt: Replacement text file for implementing multi-STA/LTA in Python
 
 trigger.py: ObsPy script with all native trigger routines and including the multi-STA/LTA routine
+
+( <hr /> ) 
+
+Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
+# eventdetectionforcryoseismology_Ch3/
+
+Repository architecture, including folder and file names with descriptions, is listed below.
 
 ## /prototype catalogues/detection catalogues/
 

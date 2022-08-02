@@ -1,14 +1,13 @@
-# Event detection for cryoseismology (Additional materials)
+# Multi-STA/LTA (Additional materials)
 Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
+Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission August 2022.
 
 Here, users can find the data and code used for generating the event catalogues in Event detection for cryoseismology.
 
 Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
-eventdetectionforcryoseismology_Ch3.
-Repository architecture, including folder and file names with descriptions, is listed below.
+eventdetectionforcryoseismology_Ch3. Repository architecture, including folder and file names with descriptions, is listed below.
 
-MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in
-ObsPy
+MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in ObsPy
 
 entrypoints.txt: Replacement text file for implementing multi-STA/LTA in Python
 
@@ -54,22 +53,17 @@ ulation for the location downstream from the grounding line of the Whillans Ice 
 Chapter3Section2.ipynb: Open access Python notebook used for the computational analysis and
 compilation of figures included in Section 2 of Chapter 3. Notebook sections organized by...
 
-```
+
 □ 3.2.2 Simulation of test waveforms for algorithm development
-```
-```
 □ 3.2.2.1 Representative event classes
 □ 3.2.2.2 Simulated seismic signal
-```
-```
 □ 3.2.3 Parameter search to optimize the application of the multi-STA/LTA
-```
-```
 □ 3.2.3.1 Defining the fine-grid of parameters
 □ 3.2.3.2 Assessing for probability of event detection
 □ 3.2.3.3 Parameter search results
 □ 3.2.3.5 Comparison of algorithms for synthetic data
-```
+
+
 ## MyAnalystPlots/
 
 MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
@@ -78,7 +72,12 @@ PDF products of the waveform views of the known Whillans Ice Stream seismicity, 
 MyAnalystPlots.py routine, made available separately due to file size at
 https://cloudstor.aarnet.edu.au/plus/s/sLD2R6miP2wXoLY. Each product is divided into sets capped at
 20 slides. The filenames are as follows:
+
 MyAnalystPlotSTICK-SLIPPRATT14set0–6.pdf
+
 MyAnalystPlotSTICK-SLIPPRATT14 ADDITIONAL.pdf
+
 MyAnalystPlotTELESEISM Iset0–1.pdf
+
 MyAnalystPlotTELESEISM IIset0–1.pdf
+

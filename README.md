@@ -2,30 +2,38 @@
 Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
 
 Here, users can find the data and code used for generating the event catalogues in Event detection for cryoseismology.
+
 # Supplementary Materials: Chapter 3
 
 Electronic Supplement Contents:
 Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
-eventdetectionforcryoseismologyCh3.
+eventdetectionforcryoseismology_Ch3.
 Repository architecture, including folder and file names with descriptions, is listed below.
 
-MultiSTALTAUseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in
+MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in
 ObsPy
+
 entrypoints.txt: Replacement text file for implementing multi-STA/LTA in Python
+
 trigger.py: ObsPy script with all native trigger routines and including the multi-STA/LTA routine
 
 ## /prototype catalogues/detection catalogues/
 
 ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
 Ice Stream from the multi-STA/LTA algorithm
+
 TraceEventCatalogueWhillansMultiSTALTA.csv : Trace event catalogue for the Whillans Ice
 Stream from the multi-STA/LTA algorithm
+
 ReferenceEventCatalogueWhillansRECmin.csv: Reference event catalogue for the Whillans Ice
 Stream from the recursive algorithm with RECmin parameters
+
 TraceEventCatalogueWhillansRECmin.csv: Trace event catalogue for the Whillans Ice Stream
 from the recursive algorithm with RECmin parameters
+
 ReferenceEventCatalogueWhillansRECmax.csv: Reference event catalogue for the Whillans Ice
 Stream from the recursive algorithm with RECmax parameters
+
 TraceEventCatalogueWhillansRECmax.csv: Trace event catalogue for the Whillans Ice Stream
 from the recursive algorithm with RECmax parameters
 
@@ -34,16 +42,12 @@ from the recursive algorithm with RECmax parameters
 ReferenceEventCatalogueWhillansMultiSTALTAConfidenceAssignments.csv: Reference event
 catalogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with high and low confidence
 assignments
+
 ReferenceEventCatalogueWhillansMultiSTALTAKnownSeismicity.csv: Reference event cat-
 alogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with identified stick-slip and
 teleseisms events
-ReferenceEventCatalogueWhillansMultiSTALTATidesTable.txt: The .txt file contains all of
 
-### 91
-
-
-the reference catalogue columns as well as tidal height per event, tidal height derivative (increasing or
-decreasing), absolute tidal height behavior (more or less positive, more or less negative), and inflection
+ReferenceEventCatalogueWhillansMultiSTALTATidesTable.txt: The .txt file contains all of the reference catalogue columns as well as tidal height per event, tidal height derivative (increasing or decreasing), absolute tidal height behavior (more or less positive, more or less negative), and inflection
 type (minimum, maximum, or none). Tidal information results from the Circum-Antarctic Tidal Sim-
 ulation for the location downstream from the grounding line of the Whillans Ice Stream (coordinate:
 84 °20’20.3994”S -166°0’0”W) (Padman et al., 2002; Howard, 2019)

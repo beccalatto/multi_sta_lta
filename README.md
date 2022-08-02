@@ -8,7 +8,6 @@ trigger.py: ObsPy script with all native trigger routines and including the mult
 
 <hr />
 
-Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
 # eventdetectionforcryoseismology_Ch3/
 
 Repository architecture, including folder and file names with descriptions, is listed below.

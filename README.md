@@ -9,7 +9,7 @@ entrypoints.txt: Replacement text file for implementing multi-STA/LTA in Python
 
 trigger.py: ObsPy script with all native trigger routines and including the multi-STA/LTA routine
 
-( <hr /> ) 
+<hr />
 
 Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
 # eventdetectionforcryoseismology_Ch3/

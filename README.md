@@ -5,7 +5,9 @@ Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P.
 Here, users can find the data and code used for generating the event catalogues in Event detection for cryoseismology.
 
 Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
-eventdetectionforcryoseismology_Ch3. Repository architecture, including folder and file names with descriptions, is listed below.
+# eventdetectionforcryoseismology_Ch3/
+
+Repository architecture, including folder and file names with descriptions, is listed below.
 
 MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in ObsPy
 
@@ -64,7 +66,7 @@ compilation of figures included in Section 2 of Chapter 3. Notebook sections org
 □ 3.2.3.5 Comparison of algorithms for synthetic data
 
 
-## MyAnalystPlots/
+## /MyAnalystPlots/
 
 MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
 for event viewing in all three components (E,N,Z) and all stations that detect an event.

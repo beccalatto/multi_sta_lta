@@ -1,7 +1,4 @@
 # Multi-STA/LTA (Additional materials)
-Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
-
-Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission August 2022.
 
 MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in ObsPy
 
@@ -84,3 +81,12 @@ MyAnalystPlotTELESEISM Iset0–1.pdf
 
 MyAnalystPlotTELESEISM IIset0–1.pdf
 
+
+<hr />
+
+# References:
+Latto, R. (In revisions, 2022). Active Glacier Processes From Machine Learning Applied to Seismic Records [MSc Thesis]. University of Tasmania. School of Natural Sciences (Physics).
+
+Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
+
+Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission August 2022.

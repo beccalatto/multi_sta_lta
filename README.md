@@ -3,9 +3,6 @@ Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection fo
 
 Here, users can find the data and code used for generating the event catalogues in Event detection for cryoseismology.
 
-# Supplementary Materials: Chapter 3
-
-Electronic Supplement Contents:
 Supplementary files are publicly available on https://github.com/beccalatto/multistalta in sub folder
 eventdetectionforcryoseismology_Ch3.
 Repository architecture, including folder and file names with descriptions, is listed below.

@@ -8,9 +8,9 @@ trigger.py: ObsPy script with all native trigger routines and including the mult
 
 <hr />
 
-# eventdetectionforcryoseismology_Ch3/
-
 Repository architecture, including folder and file names with descriptions, is listed below.
+
+# event_detection_for_cryoseismology_Ch3/
 
 ## /prototype catalogues/detection catalogues/
 
@@ -80,6 +80,12 @@ MyAnalystPlotTELESEISM Iset0–1.pdf
 
 MyAnalystPlotTELESEISM IIset0–1.pdf
 
+# unsupervised_learning_for_cryoseismology_ch4/
+
+TraceFeatureDatasetWhillans.csv: Trace feature dataset for the Whillans Ice Stream
+ReferenceFeatureDatasetWhillans.csv: Reference feature dataset for the Whillans Ice Stream
+ReferenceClusterLabelsWhillans k10.csv: Reference event catalogue with reference features and a
+column for the cluster label from k-means++ applied to data from the Whillans Ice Stream, for k=10
 
 <hr />
 

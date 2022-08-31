@@ -49,7 +49,7 @@ ulation for the location downstream from the grounding line of the Whillans Ice 
 
 ## /parameter evaluation/
 
-Section2.ipynb: Open access Python notebook used for the computational analysis and
+EventDetectSection2.ipynb: Open access Python notebook used for the computational analysis and
 compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
 
 

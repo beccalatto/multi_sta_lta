@@ -12,7 +12,7 @@ Repository architecture, including folder and file names with descriptions, is l
 
 # event_detection_for_cryoseismology/
 
-## /prototype catalogues/detection catalogues/
+## detection catalogues/
 
 ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
 Ice Stream from the multi-STA/LTA algorithm
@@ -32,7 +32,7 @@ Stream from the recursive algorithm with RECmax parameters
 TraceEventCatalogueWhillansRECmax.csv: Trace event catalogue for the Whillans Ice Stream
 from the recursive algorithm with RECmax parameters
 
-## /prototype catalogues/msl labelled catalogues/
+## labelled_catalogues/
 
 ReferenceEventCatalogueWhillansMultiSTALTAConfidenceAssignments.csv: Reference event
 catalogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with high and low confidence
@@ -47,7 +47,7 @@ type (minimum, maximum, or none). Tidal information results from the Circum-Anta
 ulation for the location downstream from the grounding line of the Whillans Ice Stream (coordinate:
 84 °20’20.3994”S -166°0’0”W) (Padman et al., 2002; Howard, 2019)
 
-## /parameter evaluation/
+## parameter_evaluation/
 
 EventDetectSection2.ipynb: Open access Python notebook used for the computational analysis and
 compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
@@ -63,7 +63,7 @@ compilation of figures included in Section 2 of Event detection for cryoseismolo
 □ 2.3.5 Comparison of algorithms for synthetic data
 
 
-## /MyAnalystPlots/
+## MyAnalystPlots/
 
 MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
 for event viewing in all three components (E,N,Z) and all stations that detect an event.

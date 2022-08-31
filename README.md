@@ -12,80 +12,80 @@ Repository architecture, including folder and file names with descriptions, is l
 
 # event_detection_for_cryoseismology/
 
-## detection catalogues/
+  ## detection catalogues/
 
-ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
-Ice Stream from the multi-STA/LTA algorithm
+  ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
+  Ice Stream from the multi-STA/LTA algorithm
 
-TraceEventCatalogueWhillansMultiSTALTA.csv : Trace event catalogue for the Whillans Ice
-Stream from the multi-STA/LTA algorithm
+  TraceEventCatalogueWhillansMultiSTALTA.csv : Trace event catalogue for the Whillans Ice
+  Stream from the multi-STA/LTA algorithm
 
-ReferenceEventCatalogueWhillansRECmin.csv: Reference event catalogue for the Whillans Ice
-Stream from the recursive algorithm with RECmin parameters
+  ReferenceEventCatalogueWhillansRECmin.csv: Reference event catalogue for the Whillans Ice
+  Stream from the recursive algorithm with RECmin parameters
 
-TraceEventCatalogueWhillansRECmin.csv: Trace event catalogue for the Whillans Ice Stream
-from the recursive algorithm with RECmin parameters
+  TraceEventCatalogueWhillansRECmin.csv: Trace event catalogue for the Whillans Ice Stream
+  from the recursive algorithm with RECmin parameters
 
-ReferenceEventCatalogueWhillansRECmax.csv: Reference event catalogue for the Whillans Ice
-Stream from the recursive algorithm with RECmax parameters
+  ReferenceEventCatalogueWhillansRECmax.csv: Reference event catalogue for the Whillans Ice
+  Stream from the recursive algorithm with RECmax parameters
 
-TraceEventCatalogueWhillansRECmax.csv: Trace event catalogue for the Whillans Ice Stream
-from the recursive algorithm with RECmax parameters
+  TraceEventCatalogueWhillansRECmax.csv: Trace event catalogue for the Whillans Ice Stream
+  from the recursive algorithm with RECmax parameters
 
-## labelled_catalogues/
+  ## labelled_catalogues/
 
-ReferenceEventCatalogueWhillansMultiSTALTAConfidenceAssignments.csv: Reference event
-catalogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with high and low confidence
-assignments
+  ReferenceEventCatalogueWhillansMultiSTALTAConfidenceAssignments.csv: Reference event
+  catalogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with high and low confidence
+  assignments
 
-ReferenceEventCatalogueWhillansMultiSTALTAKnownSeismicity.csv: Reference event cat-
-alogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with identified stick-slip and
-teleseisms events
+  ReferenceEventCatalogueWhillansMultiSTALTAKnownSeismicity.csv: Reference event cat-
+  alogue for the Whillans Ice Stream from the multi-STA/LTA algorithm with identified stick-slip and
+  teleseisms events
 
-ReferenceEventCatalogueWhillansMultiSTALTATidesTable.txt: The .txt file contains all of the reference catalogue columns as well as tidal height per event, tidal height derivative (increasing or decreasing), absolute tidal height behavior (more or less positive, more or less negative), and inflection
-type (minimum, maximum, or none). Tidal information results from the Circum-Antarctic Tidal Sim-
-ulation for the location downstream from the grounding line of the Whillans Ice Stream (coordinate:
-84 °20’20.3994”S -166°0’0”W) (Padman et al., 2002; Howard, 2019)
+  ReferenceEventCatalogueWhillansMultiSTALTATidesTable.txt: The .txt file contains all of the reference catalogue columns as well as tidal height per event, tidal height derivative (increasing or decreasing), absolute tidal height behavior (more or less positive, more or less negative), and inflection
+  type (minimum, maximum, or none). Tidal information results from the Circum-Antarctic Tidal Sim-
+  ulation for the location downstream from the grounding line of the Whillans Ice Stream (coordinate:
+  84 °20’20.3994”S -166°0’0”W) (Padman et al., 2002; Howard, 2019)
 
-## parameter_evaluation/
+  ## parameter_evaluation/
 
-EventDetectSection2.ipynb: Open access Python notebook used for the computational analysis and
-compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
-
-
-□ 2.2 Simulation of test waveforms for algorithm development
-□ 2.2.1 Representative event classes
-□ 2.2.2 Simulated seismic signal
-□ 2.3 Parameter search to optimize the application of the multi-STA/LTA
-□ 2.3.1 Defining the fine-grid of parameters
-□ 2.3.2 Assessing for probability of event detection
-□ 2.3.3 Parameter search results
-□ 2.3.5 Comparison of algorithms for synthetic data
+  EventDetectSection2.ipynb: Open access Python notebook used for the computational analysis and
+  compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
 
 
-## MyAnalystPlots/
+  □ 2.2 Simulation of test waveforms for algorithm development <br />
+  □ 2.2.1 Representative event classes <br />
+  □ 2.2.2 Simulated seismic signal <br />
+  □ 2.3 Parameter search to optimize the application of the multi-STA/LTA <br />
+  □ 2.3.1 Defining the fine-grid of parameters <br />
+  □ 2.3.2 Assessing for probability of event detection <br />
+  □ 2.3.3 Parameter search results <br />
+  □ 2.3.5 Comparison of algorithms for synthetic data <br />
 
-MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
-for event viewing in all three components (E,N,Z) and all stations that detect an event.
-PDF products of the waveform views of the known Whillans Ice Stream seismicity, produced using the
-MyAnalystPlots.py routine, made available separately due to file size at
-https://cloudstor.aarnet.edu.au/plus/s/sLD2R6miP2wXoLY. Each product is divided into sets capped at
-20 slides. The filenames are as follows:
 
-MyAnalystPlotSTICK-SLIPPRATT14set0–6.pdf
+  ## MyAnalystPlots/
 
-MyAnalystPlotSTICK-SLIPPRATT14 ADDITIONAL.pdf
+  MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
+  for event viewing in all three components (E,N,Z) and all stations that detect an event.
+  PDF products of the waveform views of the known Whillans Ice Stream seismicity, produced using the
+  MyAnalystPlots.py routine, made available separately due to file size at
+  https://cloudstor.aarnet.edu.au/plus/s/sLD2R6miP2wXoLY. Each product is divided into sets capped at
+  20 slides. The filenames are as follows:
 
-MyAnalystPlotTELESEISM Iset0–1.pdf
+  MyAnalystPlotSTICK-SLIPPRATT14set0–6.pdf
 
-MyAnalystPlotTELESEISM IIset0–1.pdf
+  MyAnalystPlotSTICK-SLIPPRATT14 ADDITIONAL.pdf
+
+  MyAnalystPlotTELESEISM Iset0–1.pdf
+
+  MyAnalystPlotTELESEISM IIset0–1.pdf
 
 # unsupervised_learning_for_cryoseismology/
 
-TraceFeatureDatasetWhillans.csv: Trace feature dataset for the Whillans Ice Stream
-ReferenceFeatureDatasetWhillans.csv: Reference feature dataset for the Whillans Ice Stream
-ReferenceClusterLabelsWhillans k10.csv: Reference event catalogue with reference features and a
-column for the cluster label from k-means++ applied to data from the Whillans Ice Stream, for k=10
+  TraceFeatureDatasetWhillans.csv: Trace feature dataset for the Whillans Ice Stream
+  ReferenceFeatureDatasetWhillans.csv: Reference feature dataset for the Whillans Ice Stream
+  ReferenceClusterLabelsWhillans k10.csv: Reference event catalogue with reference features and a
+  column for the cluster label from k-means++ applied to data from the Whillans Ice Stream, for k=10
 
 <hr />
 

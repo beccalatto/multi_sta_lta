@@ -10,7 +10,7 @@ trigger.py: ObsPy script with all native trigger routines and including the mult
 
 Repository architecture, including folder and file names with descriptions, is listed below.
 
-# event_detection_for_cryoseismology_Ch3/
+# event_detection_for_cryoseismology/
 
 ## /prototype catalogues/detection catalogues/
 
@@ -49,18 +49,18 @@ ulation for the location downstream from the grounding line of the Whillans Ice 
 
 ## /parameter evaluation/
 
-Chapter3Section2.ipynb: Open access Python notebook used for the computational analysis and
-compilation of figures included in Section 2 of Chapter 3. Notebook sections organized by...
+Section2.ipynb: Open access Python notebook used for the computational analysis and
+compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
 
 
-□ 3.2.2 Simulation of test waveforms for algorithm development
-□ 3.2.2.1 Representative event classes
-□ 3.2.2.2 Simulated seismic signal
-□ 3.2.3 Parameter search to optimize the application of the multi-STA/LTA
-□ 3.2.3.1 Defining the fine-grid of parameters
-□ 3.2.3.2 Assessing for probability of event detection
-□ 3.2.3.3 Parameter search results
-□ 3.2.3.5 Comparison of algorithms for synthetic data
+□ 2.2 Simulation of test waveforms for algorithm development
+□ 2.2.1 Representative event classes
+□ 2.2.2 Simulated seismic signal
+□ 2.3 Parameter search to optimize the application of the multi-STA/LTA
+□ 2.3.1 Defining the fine-grid of parameters
+□ 2.3.2 Assessing for probability of event detection
+□ 2.3.3 Parameter search results
+□ 2.3.5 Comparison of algorithms for synthetic data
 
 
 ## /MyAnalystPlots/
@@ -80,7 +80,7 @@ MyAnalystPlotTELESEISM Iset0–1.pdf
 
 MyAnalystPlotTELESEISM IIset0–1.pdf
 
-# unsupervised_learning_for_cryoseismology_ch4/
+# unsupervised_learning_for_cryoseismology/
 
 TraceFeatureDatasetWhillans.csv: Trace feature dataset for the Whillans Ice Stream
 ReferenceFeatureDatasetWhillans.csv: Reference feature dataset for the Whillans Ice Stream
@@ -90,8 +90,8 @@ column for the cluster label from k-means++ applied to data from the Whillans Ic
 <hr />
 
 # References:
-Latto, R. (In revisions, 2022). Active Glacier Processes From Machine Learning Applied to Seismic Records [MSc Thesis]. University of Tasmania. School of Natural Sciences (Physics).
+Latto, R. (2022). Active Glacier Processes From Machine Learning Applied to Seismic Records [MSc Thesis]. University of Tasmania. School of Natural Sciences (Physics).
 
-Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission August 2022.
+Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission September 2022.
 
-Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission August 2022.
+Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission September 2022.

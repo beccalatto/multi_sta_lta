@@ -12,9 +12,9 @@ Repository architecture, including folder and file names with descriptions, is l
 
 # event_detection_for_cryoseismology/
 
-     ## detection catalogues/
+ ## detection catalogues/
 
-     ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
+ ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
  Ice Stream from the multi-STA/LTA algorithm
 
  TraceEventCatalogueWhillansMultiSTALTA.csv : Trace event catalogue for the Whillans Ice

@@ -12,7 +12,7 @@ Repository architecture, including folder and file names with descriptions, is l
 
 # event_detection_for_cryoseismology/
 
-  ## detection catalogues/
+  * ## detection catalogues/
 
   ReferenceEventCatalogueWhillansMultiSTALTA.csv: Reference event catalogue for the Whillans
   Ice Stream from the multi-STA/LTA algorithm
@@ -82,10 +82,10 @@ Repository architecture, including folder and file names with descriptions, is l
 
 # unsupervised_learning_for_cryoseismology/
 
-  TraceFeatureDatasetWhillans.csv: Trace feature dataset for the Whillans Ice Stream
-  ReferenceFeatureDatasetWhillans.csv: Reference feature dataset for the Whillans Ice Stream
-  ReferenceClusterLabelsWhillans k10.csv: Reference event catalogue with reference features and a
-  column for the cluster label from k-means++ applied to data from the Whillans Ice Stream, for k=10
+  TraceFeatureDatasetWhillans.csv: Trace feature dataset for the Whillans Ice Stream <br />
+  ReferenceFeatureDatasetWhillans.csv: Reference feature dataset for the Whillans Ice Stream <br />
+  ReferenceClusterLabelsWhillans k10.csv: Reference event catalogue with reference features and a 
+  column for the cluster label from k-means++ applied to data from the Whillans Ice Stream, for k=10 
 
 <hr />
 

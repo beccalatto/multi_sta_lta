@@ -52,16 +52,16 @@ Repository architecture, including folder and file names with descriptions, is l
  EventDetectSection2.ipynb: Open access Python notebook used for the computational analysis and
  compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
 
-
- □ 2.2 Simulation of test waveforms for algorithm development <br />
- □ 2.2.1 Representative event classes <br />
- □ 2.2.2 Simulated seismic signal <br />
- □ 2.3 Parameter search to optimize the application of the multi-STA/LTA <br />
- □ 2.3.1 Defining the fine-grid of parameters <br />
- □ 2.3.2 Assessing for probability of event detection <br />
- □ 2.3.3 Parameter search results <br />
- □ 2.3.5 Comparison of algorithms for synthetic data <br />
-
+   □ S2.2a: Simulation of test waveforms for algorithm development  <br />
+       □ S2.2a.1: Representative event classes  <br />
+       □ S2.2a.2: Simulated seismic signal  <br />
+    
+   □ S2.2b: Parameter search to optimize the application of the multi-STA/LTA  <br />
+       □ S2.2b.1: Defining the fine-grid of parameters  <br />
+       □ S2.2b.2: Assessing the success of event detection  <br />
+       □ S2.2b.3: Parameter search results  <br />
+       □ S2.2b.4: Parameter recommendations  <br />
+       □ S2.2b.5: Comparison of algorithms for synthetic data  <br />
 
  ## MyAnalystPlots/
 

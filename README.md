@@ -49,8 +49,8 @@ Repository architecture, including folder and file names with descriptions, is l
 
  ## parameter_evaluation/
 
- EventDetectSection2.ipynb: Open access Python notebook used for the computational analysis and
- compilation of figures included in Section 2 of Event detection for cryoseismology. Notebook sections organized by...
+ EventDetectSectionS2.ipynb: Open access Python notebook used for the computational analysis and
+ compilation of figures included in Section S2 of Event detection for cryoseismology. Notebook sections organized by...
 
    □ S2.2a: Simulation of test waveforms for algorithm development  <br />
        □ S2.2a.1: Representative event classes  <br />

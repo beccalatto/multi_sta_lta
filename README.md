@@ -68,8 +68,7 @@ Repository architecture, including folder and file names with descriptions, is l
  MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
  for event viewing in all three components (E,N,Z) and all stations that detect an event.
  PDF products of the waveform views of the known Whillans Ice Stream seismicity, produced using the
- MyAnalystPlots.py routine, made available separately due to file size at
- https://cloudstor.aarnet.edu.au/plus/s/sLD2R6miP2wXoLY. Each product is divided into sets capped at
+ MyAnalystPlots.py routine, made available separately by request to author (due to file size). Each product is divided into sets capped at
  20 slides. The filenames are as follows:
 
  MyAnalystPlotSTICK-SLIPPRATT14set0–6.pdf
@@ -92,6 +91,6 @@ Repository architecture, including folder and file names with descriptions, is l
 # References:
 Latto, R. (2022). Active Glacier Processes From Machine Learning Applied to Seismic Records [MSc Thesis]. University of Tasmania. School of Natural Sciences (Physics).
 
-Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission June 2023.
+Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in preparation for submission Feb 2024.
 
-Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission June 2023.
+Latto, R., Turner, R. J., Reading, A. M., Cook, S., Kulessa, B., Winberry, J. P., “Unsupervised learning applied to cryoseismic signals: identification of glacier processes from the Whillans Ice Stream.” The Cryosphere, in preparation for submission Feb 2024.

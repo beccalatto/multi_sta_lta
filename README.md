@@ -68,16 +68,7 @@ Repository architecture, including folder and file names with descriptions, is l
  MyAnalystPlots.py: Routine that plots events from the multistalta catalogue. The script enables
  for event viewing in all three components (E,N,Z) and all stations that detect an event.
  PDF products of the waveform views of the known Whillans Ice Stream seismicity, produced using the
- MyAnalystPlots.py routine, made available separately by request to author (due to file size). Each product is divided into sets capped at
- 20 slides. The filenames are as follows:
-
- MyAnalystPlotSTICK-SLIPPRATT14set0–6.pdf
-
- MyAnalystPlotSTICK-SLIPPRATT14 ADDITIONAL.pdf
-
- MyAnalystPlotTELESEISM Iset0–1.pdf
-
- MyAnalystPlotTELESEISM IIset0–1.pdf
+ MyAnalystPlots.py routine, made available separately by request to author (due to file size). 
 
 # unsupervised_learning_for_cryoseismology/
 

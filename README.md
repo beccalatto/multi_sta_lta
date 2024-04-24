@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/514358895.svg)](https://zenodo.org/doi/10.5281/zenodo.11062069)
 # Multi-STA/LTA (Additional materials)
 
 MultiSTALTA_UseGuide.pdf: How-to guide to download the multi-STA/LTA function and use in ObsPy
